@@ -1,22 +1,29 @@
 {
-  "name": "timbus.dev",
-  "version": "1.0.0",
+  "name": "hexo-site",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt-ts build",
-    "start": "nuxt-ts start",
-    "export": "nuxt-ts export",
-    "serve": "nuxt-ts serve",
-    "generate": "nuxt-ts build && nuxt-ts export",
-    "deploy": "gh-pages -d dist"
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
+  },
+  "hexo": {
+    "version": "4.2.1"
   },
   "dependencies": {
-    "@nuxt/typescript-runtime": "^0.4.10",
-    "nuxt": "^2.13.0"
-  },
-  "devDependencies": {
-    "@nuxt/typescript-build": "^1.0.3",
-    "gh-pages": "^3.1.0"
+    "hexo": "^4.2.1",
+    "hexo-deployer-git": "^2.1.0",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-index": "^1.0.0",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-inject": "^1.0.0",
+    "hexo-renderer-ejs": "^1.0.0",
+    "hexo-renderer-jade": "^0.5.0",
+    "hexo-renderer-marked": "^2.0.0",
+    "hexo-renderer-sass": "^0.4.0",
+    "hexo-renderer-stylus": "^1.1.0",
+    "hexo-server": "^1.0.0"
   }
 }
