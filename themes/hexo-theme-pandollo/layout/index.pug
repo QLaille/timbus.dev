@@ -1,0 +1,15 @@
+extends includes/layout
+
+block variables
+    - INDEX = true;
+
+
+//- block for description of site
+
+block container
+    include mixins/post
+    +articles()
+
+block pagination
+    include mixins/paginator
+    +forList()
