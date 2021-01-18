@@ -1,5 +1,5 @@
 ---
-title: burnout
+title: Burnout, the impact, the journey, the recovery
 date: 2021-01-18 15:16:51
 tags:
 	- Growth
