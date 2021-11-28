@@ -1,3 +1,12 @@
+---
+title: Persistency and heart
+date: 2021-11-28 11:40:00
+tags:
+	- Anxiety
+	- Growth
+	- Knowledge
+---
+
 # A take on old projects, persistency, and why you should listen to your heart
 
 It feels very odd to pick up a text editor to write again,
@@ -5,7 +14,7 @@ it has been a while since I've had the urge to write something.
 
 ## Where the heck have I been ?
 
-I've been focusing on finishing and wrapping up my studies, I have now a master's degree on computer science, yay me !
+I have been focusing on finishing and wrapping up my studies, I have now a master's degree on computer science, yay me!
 But that means I have had to drop some stuff on the way to focus on me and myself, in terms of personal objectives, lifestyle, schedule, and hobbies.
 Putting personal projects, that are not related to software, on the fence always feels like abandoning a little bit of yourself:
 > Sometimes it hurts, sometimes it is necessary, and sometimes you forget about it.
